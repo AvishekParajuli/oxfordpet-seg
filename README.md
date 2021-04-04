@@ -4,7 +4,7 @@ Keras implementation of various Net and comparision of performance on [Oxford-Pe
 
 ## Samples results:
 ![](results/Figure_1.png)
-![](results/Figure_5.PNG)
+![](results/Figure_5.png)
 
 ## Files
 
